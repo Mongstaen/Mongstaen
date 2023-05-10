@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Thomas, and I really like Radio and Broadcast automation systems..
 
 <!--
 **Mongstaen/Mongstaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
