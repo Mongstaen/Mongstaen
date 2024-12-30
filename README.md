@@ -1,5 +1,6 @@
 ### Goddagen! 👋
 I'm Thomas, and I really like Radio and Broadcast automation systems..
+
 🚴 For some reason I'm into bikes(!) [Omafiets](https://en.wiktionary.org/wiki/omafiets) in particular. Don't ask why.
 
 I have a [blog](https://mongstad.dev), check it out.. if you like.
